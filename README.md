@@ -1,4 +1,4 @@
-# Energy System Optimization with MPEC and Gurobi
+# Energy System Optimization with MPEC
 
 ## Paper Reference
 
