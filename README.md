@@ -1,5 +1,17 @@
 # Energy System Optimization with MPEC and Gurobi
 
+## Paper Reference
+
+This project is the implementation code for the paper:
+
+**"Profit-Oriented Planning and Multi-Market Operation Model for Hybrid Energy Storage Systems"**
+
+Submitted to: *IEEE Transactions on Sustainable Energy*
+
+---
+
+## Project Overview
+
 This project implements an energy system optimization model using MPEC (Mathematical Programs with Equilibrium Constraints) framework and Gurobi solver. The model incorporates typical days, wind generation, gas generators, and energy storage systems to optimize day-ahead and real-time market bidding strategies.
 
 ## Project Structure
